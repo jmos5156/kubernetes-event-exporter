@@ -1,4 +1,5 @@
 name: Publish Docker image
+on: push
 
 jobs:
   push_to_registries:
